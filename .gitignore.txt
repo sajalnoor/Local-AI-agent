@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-venv/
-.env
-temp.pdf
-.temp/
-*.log
-.DS_Store
-Thumbs.db
