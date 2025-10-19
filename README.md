@@ -1,4 +1,4 @@
-# 🤖 Agentic RAG — Local PDF + Web Q&A using Ollama
+# 🤖 LocalRAG: A Local AI Agent for Document Querying
 
 A lightweight **Agentic Retrieval-Augmented Generation (RAG)** system that runs **completely offline** using local Ollama models — with optional online web search via DuckDuckGo.  
 It can answer questions from uploaded PDFs or synthesize answers from both **PDF + Web** intelligently.
